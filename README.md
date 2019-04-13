@@ -1,5 +1,5 @@
  
- <h2>(Projeto em Andamento)</h2>
+ <h2>CRUD Simples em Python (Projeto em Andamento)</h2>
  
  <h3>Linguagem: Python</h3>
 
