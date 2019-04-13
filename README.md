@@ -15,7 +15,7 @@
   <li>Caso aparecer erro, verificar se o Wampserver(ou  Servidor) está devidamente instanciado.</li>
 
   <li>Validar no Conexao.py o nome da Host, User, Password e Database.</li>
-  <li>Não esquecer de rodar o ScriptBancoDados no servidor MySQL.</li>
+  <li>Não esquecer de rodar o ScriptBancoDados.sql no servidor MySQL.</li>
   </ul>
 
 <h3>Login:</h3>
